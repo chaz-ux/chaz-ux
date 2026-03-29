@@ -224,7 +224,7 @@ $ whoami
   <img alt="snake" src="https://raw.githubusercontent.com/chaz-ux/chaz-ux/output/github-snake.svg"/>
 </picture>
 
-> *To activate the snake: create `.github/workflows/snake.yml` in this repo — see setup instructions below.*
+
 
 </div>
 
