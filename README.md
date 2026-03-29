@@ -196,22 +196,16 @@ $ whoami
 ```
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaz-ux&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&ring_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaz-ux&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" height="165"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=chaz-ux&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&ring_color=ffffff&v=1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaz-ux&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&v=1" height="165"/>
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaz-ux&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888" />
-
 </div>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chaz-ux&theme=darkhub&no-frame=true&margin-w=8&column=7)](https://github.com/chaz-ux)
-
+<img src="https://github-profile-trophy.vercel.app/?username=chaz-ux&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 ---
