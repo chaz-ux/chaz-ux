@@ -1,31 +1,97 @@
-<!-- GEAR 5 LUFFY - ASCII ART -->
+<!--
+  ██████╗ ███████╗ █████╗ ██████╗      ███████╗
+  ██╔════╝ ██╔════╝██╔══██╗██╔══██╗     ██╔════╝
+  ██║  ███╗█████╗  ███████║██████╔╝     ███████╗
+  ██║   ██║██╔══╝  ██╔══██║██╔══██╗     ╚════██║
+  ╚██████╔╝███████╗██║  ██║██║  ██║     ███████║
+   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚══════╝
+-->
+
 <div align="center">
 
 ```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠋⠙⢷⣴⠟⠉⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣼⡟⠀⠀⠀⠀⠉⠀⠀⠀⢻⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣸⡟⠀⢀⣴⠶⠶⣦⠀⣴⠶⠶⣦⡀⢻⣇⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢠⣿⠁⠀⠸⣿⠀⠀⣿⠀⣿⠀⠀⣿⠃⠈⣿⡄⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢸⡟⠀⠀⠀⠙⠷⠾⠋⠀⠙⠷⠾⠋⠀⠀⢻⡇⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢸⣇⠀⠀⠀⠀⠀⠀⠀⣄⠀⠀⠀⠀⠀⠀⣸⡇⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢻⣧⠀⠀⠀⢀⣴⡾⠿⢷⣄⠀⠀⠀⣼⡟⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⣴⠟⠁⠀⠀⠀⠙⢷⣤⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⣸⡿⢿⣦⡀⠀⠀⠀⢀⣴⡿⢿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢰⡿⠀⠀⠙⢿⣶⣶⡾⠟⠁⠀⠀⢿⡆⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣷⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢿⣧⠀⢀⣀⣀⣀⣀⣀⣀⡀⠀⠀⣼⡿⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠈⠻⣷⡟⠋⠁⠀⠀⠀⠉⢻⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                      .  .   . . .  .  .
+                   .  \  |  /|\ |  /  .
+                 .  ---( )---( )---( )---  .
+                .       |||   |||   |||      .
+               .    ___/|||\ /|||\  |||\_    .
+              .    /    laughing at gravity   \  .
+             .    |   _____________________  |   .
+            .     |  /  ~~~~ GEAR 5 ~~~~   \ |    .
+           .      | |   ( o )       ( o )  | |     .
+          .       | |      \    ^   /      | |      .
+         .        |  \      \_______/     /  |       .
+        .          \  \___________________/  /        .
+       .             \______________________/          .
+      .          feet up. clouds out. still shipping.   .
+     . . . . . . . . . . . . . . . . . . . . . . . . . .
 ```
 
-# ⚓ MONKEY D. CHAZ
+# Kariuki D. Chaz
 
-### *"I don't want to conquer anything. I just want to build things that shouldn't exist — and make them work."*
+**`Full-Stack Engineer · Nairobi, Kenya`**
 
-[![Visits](https://komarev.com/ghpvc/?username=chaz-ux&color=white&style=flat-square&label=nakamas+visited)](https://github.com/chaz-ux)
-[![GitHub followers](https://img.shields.io/github/followers/chaz-ux?style=flat-square&color=white&label=crew+members)](https://github.com/chaz-ux?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=chaz-ux&style=flat-square&color=black&label=profile+views)](https://github.com/chaz-ux)
+
+</div>
+
+---
+
+```yaml
+name:     Kariuki D. Chaz
+location: Nairobi, Kenya
+school:   JKUAT
+status:   Always building. Usually debugging. Occasionally sleeping.
+fun_fact: The D. in the name carries a will. Still discovering what mine is. ⚓
+```
+
+---
+
+### What I'm building
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔥 **Ember** | Dating app — men pay to message, women earn to reply. Escrow-backed. | Next.js 14, Supabase, M-Pesa, Redis |
+| 🦁 **Wildhaven** | Premium safari booking with AI trip planner & cinematic animations | Next.js 15, Mapbox GL, GSAP, Gemini |
+| 📍 **AttendEase** | GPS geofencing attendance for universities. Live at JKUAT. | React Native, Expo, Supabase |
+| 🏫 **Academix** | Full school ERP for a real Kenyan CBC school. KRA tax logic included. | Next.js, TypeScript, PocketBase |
+| 💊 **ODE-LSTM** | Hybrid drug demand forecasting for Kenya's national pharma chain. 47 counties. | Python, LSTM, ODE, Newton-Raphson |
+
+---
+
+### Stack
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</div>
+
+---
+
+### A few things I believe
+
+```
+→  If it works on mobile data in Nairobi, it works anywhere.
+→  M-Pesa is a better payment API than anything Silicon Valley has shipped.
+→  Math and code are the same thing at different zoom levels.
+→  Ship the ugly version. Refactor later. Ideas rot in drafts.
+→  The African dev ecosystem needs builders, not observers.
+```
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaz-ux&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaz-ux&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888)
 
 </div>
 
@@ -33,100 +99,8 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║          ☠  WANTED  ☠   DEAD OR ALIVE               ║
-║                                                      ║
-║              C H A Z - U X                          ║
-║         Full-Stack Engineer / Nairobi, Kenya        ║
-║                                                      ║
-║   Crimes:  Building things nobody asked for.        ║
-║            Making M-Pesa do things Safaricom        ║
-║            never intended.                          ║
-║            Shipping at 3am. Repeatedly.             ║
-╚══════════════════════════════════════════════════════╝
-```
+*"The sea is vast. I haven't built enough of it yet."*
 
-</div>
-
----
-
-## 🌊 The Grand Line (Current Voyage)
-
-Right now I'm sailing toward things that make engineers say *"that's not how that's supposed to work."*
-
-- 🔥 **[Ember](https://github.com/chaz-ux)** — A dating app where men pay to send messages and women earn to reply. Escrow-backed. M-Pesa integrated. Built on Next.js 14 + Supabase.
-- 🦁 **[Wildhaven](https://github.com/chaz-ux/Wildhaven)** — Premium safari booking platform with Mapbox GL, GSAP animations, and a Gemini AI trip planner.
-- 📍 **[AttendEase](https://github.com/chaz-ux)** — GPS geofencing attendance system for universities. Role-based flows. Built for JKUAT.
-- 💊 **ODE-LSTM Forecaster** — Hybrid drug demand forecasting model for Kenya's national pharmaceutical supply (KEMSA). 47 counties. Newton-Raphson optimization.
-
----
-
-## 🏴‍☠️ Devil Fruit Powers (Tech Stack)
-
-```
-RUBBER-RUBBER STACK:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Frontend    ▸  Next.js · React Native · Tailwind CSS
-  Backend     ▸  Supabase · PocketBase · Node.js
-  ML / AI     ▸  Python · LSTM · ODE Models · Gemini API
-  Mobile      ▸  Expo · React Native · PWA
-  Payments    ▸  M-Pesa (Intasend/Daraja) · Escrow Logic
-  Maps        ▸  Mapbox GL JS · Geofencing
-  Animations  ▸  GSAP · Framer Motion
-  Other       ▸  Redis · Firebase · MediaPipe
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## ☠️ Pirate Log (Projects That Shouldn't Have Worked)
-
-| Ship | What It Does | Status |
-|------|-------------|--------|
-| 🌿 **vision-os-gesture-engine** | Turns a webcam into a spatial interface. Hand gestures → mouse movements. No hardware needed. | ⚓ Docked |
-| 🎭 **Mystic Engine** | Don't ask. | 🌊 Sailing |
-| 🧬 **v12-biometric-matrix** | Biometric data pipeline. Python. Cursed in the best way. | 🌊 Sailing |
-| 🎼 **ai-conductor** | AI orchestration layer. Because one model was never enough. | 🔧 In Dry Dock |
-| 🏫 **Academix ERP** | Full school ERP with KRA PAYE formulas, CBC curriculum logic, bulk invoicing. Built for a real Kenyan school. | ✅ Delivered |
-
----
-
-## 🗺️ Haki (Philosophies)
-
-```
-  ① Ship ugly. Refactor later. Ideas rot in drafts.
-  ② The Kenyan dev ecosystem needs builders, not spectators.  
-  ③ If it works on mobile data in Nairobi, it works everywhere.
-  ④ M-Pesa is the best payment API in the world. Full stop.
-  ⑤ Math is just code that hasn't been compiled yet.
-```
-
----
-
-## 📡 Den Den Mushi (Connect)
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-chaz--ux-black?style=for-the-badge&logo=github)](https://github.com/chaz-ux)
-
-*"The people who are crazy enough to think they can change the world are the ones who do."*
-*— Not Luffy, but he'd agree.*
-
-⚓ **Nairobi, Kenya** · JKUAT · Building for Africa's stack
-
-</div>
-
----
-
-<div align="center">
-
-```
-⠀⠀⠀⠀⠀⣿⣿⣿⠀⣿⣿⣿⣿⣿⠀⣿⣿⣿
-⠀⠀⠀⠀⠀⣿⠀⠀⠀⣿⠀⠀⠀⣿⠀⣿⠀⠀
-⠀⠀⠀⠀⠀⣿⣿⣿⠀⣿⣿⣿⣿⣿⠀⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-     ⚓ Set Sail. Ship Code. Eat Meat. ⚓
-```
+⚓
 
 </div>
